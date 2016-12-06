@@ -1,6 +1,6 @@
 # 系统安装
 
-安装主要内容包括：MYSQL数据库、JDK、TOMCAT、睿思BI系统安装包等内容。
+安装内容主要包括：MYSQL数据库、JDK、TOMCAT、睿思BI系统安装包等内容。
 
 1.安装MYSQL
 
