@@ -5,7 +5,7 @@
 * [功能列表](gong_neng.md)
    * [数据导入](shu_ju_dao_ru.md)
        * [CSV导入](csvdao_ru.md)
-       * Excel导入
+       * [Excel导入](exceldao_ru.md)
        * 数据库导入
        * 配置信息
        * SQL脚本
