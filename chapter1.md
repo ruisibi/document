@@ -9,7 +9,7 @@
 
 1.安装MYSQL
 
-MySQL下载地址：[http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip](http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip)
+MySQL下载地址：[http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip](http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip)，下载后直接解压安装即可。
 
 2.安装JDK
 
