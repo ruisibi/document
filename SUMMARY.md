@@ -2,6 +2,7 @@
 
 * [系统介绍](README.md)
 * [系统安装](chapter1.md)
+* Excel导入
 * [功能列表](gong_neng.md)
    * [数据导入](shu_ju_dao_ru.md)
        * CSV导入
