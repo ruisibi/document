@@ -7,7 +7,7 @@
        * [CSV导入](csvdao_ru.md)
        * [Excel导入](exceldao_ru.md)
        * [数据库导入](shu_ju_ku_dao_ru.md)
-       * 配置信息
+       * [配置信息](pei_zhi_xin_xi.md)
        * SQL脚本
        * 已有数据
        * 任务管理
