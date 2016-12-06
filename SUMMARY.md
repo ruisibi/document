@@ -8,5 +8,5 @@
    * [明细查询](ming_xi_cha_xun.md)
    * [数据建模](shu_ju_jian_mo.md)
    * [多维分析](duo_wei_fen_xi.md)
-   * 睿思报表
+   * [睿思报表](rui_si_bao_biao.md)
 
