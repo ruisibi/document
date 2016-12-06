@@ -8,7 +8,7 @@
        * [Excel导入](exceldao_ru.md)
        * [数据库导入](shu_ju_ku_dao_ru.md)
        * [配置信息](pei_zhi_xin_xi.md)
-       * SQL脚本
+       * [SQL脚本](sqljiao_ben.md)
        * 已有数据
        * 任务管理
    * [数据填报](shu_ju_tian_bao.md)
