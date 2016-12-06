@@ -27,19 +27,19 @@ Tomcat下载地址：[Tomcat7.0](http://www.ruisitech.com/tools/apache-tomcat-7.
 
 4.安装数据
 
-> 解压睿思BI下载文件夹中 bi数据.zip, bi数据.zip包含 yunbi_sys.bak 及 yunbi.bak 两文件，分别对应MYSQL两个数据库。
-> 进入MYSQL建立 yunbi_sys 数据库及 yunbi 数据库，注意名称一致。
-> 用mysql命令还原数据到数据库中，相关命令为：
+解压睿思BI下载文件夹中 bi数据.zip, bi数据.zip包含 yunbi_sys.bak 及 yunbi.bak 两文件，分别对应MYSQL两个数据库。
+进入MYSQL建立 yunbi_sys 数据库及 yunbi 数据库，注意名称一致。
+用mysql命令还原数据到数据库中，相关命令为：
 
      mysql –uroot –pxxxxxx yunbi_sys<yunbi_sys.bak  
      mysql –uroot –pxxxxxx yunbi<yunbi.bak
 
 5.安装程序
 
-> 解压下载文件夹中bi.zip, 把解压的文件拷入 TOMCAT 的 webapps 目录，目录名称 bi。
-> 修改 bi/WEB-INF/classes/database.properties 文件，主要修改 password 这项内容，既你数据库账户root的密码，如果您的MYSQL root密码是123456，则不用修改。
-> 启动tomcat, 输入 http://localhost:8080/bi 访问系统，如果看到登录页面，系统配置成功。
-> 登录用户名/密码：admin/123456
+解压下载文件夹中bi.zip, 把解压的文件拷入 TOMCAT 的 webapps 目录，目录名称 bi。
+修改 bi/WEB-INF/classes/database.properties 文件，主要修改 password 这项内容，既你数据库账户root的密码，如果您的MYSQL root密码是123456，则不用修改。
+启动tomcat, 输入 http://localhost:8080/bi 访问系统，如果看到登录页面，系统配置成功。
+登录用户名/密码：admin/123456
 
 6.安装License
 
