@@ -44,6 +44,8 @@ Tomcat下载地址：[Tomcat7.0](http://www.ruisitech.com/tools/apache-tomcat-7.
 6.安装License
 
 
-> 去 [http://www.ruisitech.com/license.html](http://www.ruisitech.com/license.html) 下载 license文件。
-> 把下载的lic文件放入 bi/WEB-INF/ 目录下。
-> 重启系统。
+去 [http://www.ruisitech.com/license.html](http://www.ruisitech.com/license.html) 下载 license文件。
+
+把下载的lic文件放入 bi/WEB-INF/ 目录下。
+
+重启系统。
