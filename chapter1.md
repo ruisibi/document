@@ -28,4 +28,6 @@ Tomcat下载地址：[Tomcat7.0](http://www.ruisitech.com/tools/apache-tomcat-7.
 > 解压睿思BI下载文件夹中 bi数据.zip, bi数据.zip包含 yunbi_sys.bak 及 yunbi.bak 两文件，分别对应MYSQL两个数据库。
 > 进入MYSQL建立 yunbi_sys 数据库及 yunbi 数据库，注意名称一致。
 > 用mysql命令还原数据到数据库中，相关命令为：
-     
+
+     ```mysql –uroot –pxxxxxx yunbi_sys<yunbi_sys.bak  
+     mysql –uroot –pxxxxxx yunbi<yunbi.bak```
