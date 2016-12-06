@@ -17,5 +17,4 @@
    * [多维分析](duo_wei_fen_xi.md)
    * [睿思报表](rui_si_bao_biao.md)
    * [移动BI](yi_dong_bi.md)
-   * Excel导入
 
