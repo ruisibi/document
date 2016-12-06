@@ -5,8 +5,7 @@
 * JDK1.5及以上版本；
 * Tomcat5.5及以上版本;
 
-
-安装内容主要包括：MYSQL数据库、JDK、TOMCAT、睿思BI系统安装包等内容。
+从北京睿思科技有限公司网站下载最新版“睿思BI”标准版程序，下载地址：[睿思BI](http://www.ruisitech.com/download.html)
 
 1.安装MYSQL
       MySQL下载地址：[http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip](http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip)
