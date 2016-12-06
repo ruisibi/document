@@ -7,6 +7,7 @@
        * CSV导入
        * Excel导入
        * 数据库导入
+       * 配置信息
    * [数据填报](shu_ju_tian_bao.md)
    * [明细查询](ming_xi_cha_xun.md)
    * [数据建模](shu_ju_jian_mo.md)
