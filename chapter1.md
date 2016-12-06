@@ -21,7 +21,14 @@ JDK下载地址：[JDK7](http://www.ruisitech.com/tools/jdk-7u71-windows-x64.exe
 
 3.安装Tomcat
 
+Tomcat下载地址：[Tomcat7.0](http://www.ruisitech.com/tools/apache-tomcat-7.0.61-windows-x64.zip)，下载完成后解压即可。进入Tomcat 的 bin 目录，执行startup.bat文件启动tomcat，如果启动失败，请先设置JAVA_HOME环境变量。
+
 4.安装数据
+
+1.	解压下载文件夹中 bi数据.zip, bi数据.zip包含 yunbi_sys.bak 及 yunbi.bak 两文件，分别对应MYSQL两个数据库。
+2.	进入MYSQL建立 yunbi_sys 数据库及 yunbi 数据库，注意名称一致。
+3.	用mysql命令还原数据到数据库中，相关命令为：mysql –uroot –pxxxxxx yunbi_sys<yunbi_sys.bak;  mysql –uroot –pxxxxxx yunbi<yunbi.bak;
+
 
 5.安装程序
 
