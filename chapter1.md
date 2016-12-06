@@ -40,3 +40,10 @@ Tomcat下载地址：[Tomcat7.0](http://www.ruisitech.com/tools/apache-tomcat-7.
 > 修改 bi/WEB-INF/classes/database.properties 文件，主要修改 password 这项内容，既你数据库账户root的密码，如果您的MYSQL root密码是123456，则不用修改。
 > 启动tomcat, 输入 http://localhost:8080/bi 访问系统，如果看到登录页面，系统配置成功。
 > 登录用户名/密码：admin/123456
+
+6.安装License
+
+
+> 去 [http://www.ruisitech.com/license.html](http://www.ruisitech.com/license.html) 下载 license文件。
+> 把下载的lic文件放入 bi/WEB-INF/ 目录下。
+> 重启系统。
