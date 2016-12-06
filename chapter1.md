@@ -11,6 +11,7 @@
 
 MySQL下载地址：[http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip](http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip)，下载后直接解压安装即可。安装完成后，请在环境变量中设置mysql 的path，如下图：
 ![设置MySQL环境变量](QQ图片20161206144815.png)
+本电脑上MySQL路径为：C:\Program Files\MySQL\MySQL Server 5.5\bin 
 
 2.安装JDK
 
