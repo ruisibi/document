@@ -15,6 +15,8 @@ MySQL下载地址：[http://www.ruisitech.com/tools/mysql5.5.27_win64_zol.zip](h
 
 2.安装JDK
 
+JDK下载地址：[JDK7](http://www.ruisitech.com/tools/jdk-7u71-windows-x64.exe).下载完成后直接安装即可。
+
 3.安装Tomcat
 
 4.安装数据
