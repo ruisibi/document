@@ -42,6 +42,8 @@ create database yunbi
 
      mysql –uroot –pxxxxxx yunbi_sys<yunbi_sys.bak  
      mysql –uroot –pxxxxxx yunbi<yunbi.bak
+  
+  其中xxxxxx代表你的数据库root账号的密码。
 
 5.安装程序
 
