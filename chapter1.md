@@ -33,6 +33,11 @@ Tomcat下载地址：[Tomcat7.0](http://www.ruisitech.com/tools/apache-tomcat-7.
 
 进入MYSQL建立 yunbi_sys 数据库及 yunbi 数据库，注意名称一致。
 
+```
+create database yunbi_sys
+create database yunbi
+```
+
 用mysql命令还原数据到数据库中，相关命令为：
 
      mysql –uroot –pxxxxxx yunbi_sys<yunbi_sys.bak  
