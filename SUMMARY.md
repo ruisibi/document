@@ -27,5 +27,5 @@
    * [移动BI](yi_dong_bi.md)
        * [分类管理](fen_lei_guan_li_app.md)
        * [创建手机报表](chuang_jian_shou_ji_bao_biao.md)
-       * 手机报表管理
+       * [手机报表管理](shou_ji_bao_biao_guan_li.md)
 
