@@ -21,7 +21,7 @@
    * [数据建模](shu_ju_jian_mo.md)
        * [分类管理](fen_lei_guan_li.md)
        * [创建模型](chuang_jian_mo_xing.md)
-       * 已建模管理
+       * [已建模管理](yi_jian_mo_guan_li.md)
    * [多维分析](duo_wei_fen_xi.md)
    * [睿思报表](rui_si_bao_biao.md)
    * [移动BI](yi_dong_bi.md)
