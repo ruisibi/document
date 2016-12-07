@@ -13,7 +13,7 @@
        * [已有数据](yi_you_shu_ju.md)
        * [任务管理](ren_wu_guan_li.md)
    * [数据填报](shu_ju_tian_bao.md)
-       * 创建填报表
+       * [创建填报表](chuang_jian_tian_bao_biao.md)
    * [明细查询](ming_xi_cha_xun.md)
    * [数据建模](shu_ju_jian_mo.md)
    * [多维分析](duo_wei_fen_xi.md)
