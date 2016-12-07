@@ -56,8 +56,10 @@ password=123456```
 6.安装License
 
 
-去 [http://www.ruisitech.com/license.html](http://www.ruisitech.com/license.html) 下载 license文件。
+登录 [http://www.ruisitech.com/license.html](http://www.ruisitech.com/license.html) 下载 license文件。
 
 把下载的lic文件放入 bi/WEB-INF/ 目录下。
+
+![lic](QQ图片20161207095559.png)
 
 重启系统。
