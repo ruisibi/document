@@ -16,7 +16,7 @@
        * [创建填报表](chuang_jian_tian_bao_biao.md)
        * [填报表管理](tian_bao_biao_guan_li.md)
        * [数据填报](shu_ju_tian_bao_pc.md)
-       * 数据管理
+       * [数据管理](shu_ju_guan_li.md)
    * [明细查询](ming_xi_cha_xun.md)
    * [数据建模](shu_ju_jian_mo.md)
    * [多维分析](duo_wei_fen_xi.md)
