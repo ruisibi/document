@@ -17,6 +17,7 @@
        * [填报表管理](tian_bao_biao_guan_li.md)
        * [PC端填报](shu_ju_tian_bao_pc.md)
        * [数据管理](shu_ju_guan_li.md)
+       * 手机端填报
    * [明细查询](ming_xi_cha_xun.md)
    * [数据建模](shu_ju_jian_mo.md)
        * [分类管理](fen_lei_guan_li.md)
