@@ -25,7 +25,7 @@
    * [多维分析](duo_wei_fen_xi.md)
    * [睿思报表](rui_si_bao_biao.md)
    * [移动BI](yi_dong_bi.md)
-       * [分类管理](fen_lei_guan_li_app.md)
+       * [手机报表分类](fen_lei_guan_li_app.md)
        * [创建手机报表](chuang_jian_shou_ji_bao_biao.md)
        * [手机报表管理](shou_ji_bao_biao_guan_li.md)
 
