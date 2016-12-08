@@ -20,7 +20,7 @@
        * [数据管理](shu_ju_guan_li.md)
    * [明细查询](ming_xi_cha_xun.md)
        * [建模](jian_mo.md)
-       * [查询](cha_xun.md)
+       * [查询及导出](cha_xun.md)
        * [做图](zuo_tu.md)
    * [数据建模](shu_ju_jian_mo.md)
        * [分类管理](fen_lei_guan_li.md)
