@@ -12,5 +12,5 @@
 
 ![](/assets/import8.png)
 
-4.动态字段是一个表达式，可以是数据转换 date\_format\(date, '%Y'\)left\(day\_i
+4.动态字段是一个表达式，可以是数据转换 date\_format\(date, '%Y'\)，left\(day\_id, 4\)，也可以是字段运算：rid + 100
 
