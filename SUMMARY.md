@@ -29,7 +29,7 @@
    * [多维分析](duo_wei_fen_xi.md)
        * [拖拽分析](tuo_ye_fen_xi.md)
        * [钻取](zuan_qu.md)
-       * 计算
+       * [计算](ji_suan.md)
        * 图形
        * 导出\/打印
    * [数据报表](rui_si_bao_biao.md)
