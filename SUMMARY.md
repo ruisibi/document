@@ -37,7 +37,7 @@
            * [表格](biao_ge.md)
            * [图形](r_tu_xing.md)
            * [参数](can_shu.md)
-           * 布局
+           * [布局](bu_ju.md)
        * [报表查看](bao_biao_cha_kan.md)
    * [移动BI](yi_dong_bi.md)
        * [手机报表分类](fen_lei_guan_li_app.md)
