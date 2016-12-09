@@ -27,6 +27,11 @@
         * [创建模型](chuang_jian_mo_xing.md)
         * [已建模管理](yi_jian_mo_guan_li.md)
     * [多维分析](duo_wei_fen_xi.md)
+        * 拖拽分析
+        * 钻取
+        * 计算
+        * 图形
+        * 导出\/打印
     * [数据报表](rui_si_bao_biao.md)
     * [移动BI](yi_dong_bi.md)
         * [手机报表分类](fen_lei_guan_li_app.md)
