@@ -28,7 +28,7 @@
        * [已建模管理](yi_jian_mo_guan_li.md)
    * [多维分析](duo_wei_fen_xi.md)
        * [拖拽分析](tuo_ye_fen_xi.md)
-       * 钻取
+       * [钻取](zuan_qu.md)
        * 计算
        * 图形
        * 导出\/打印
