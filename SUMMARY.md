@@ -35,6 +35,7 @@
    * [数据报表](rui_si_bao_biao.md)
        * [定制报表](ding_zhi_bao_biao.md)
            * 表格
+           * 图形
        * [报表查看](bao_biao_cha_kan.md)
    * [移动BI](yi_dong_bi.md)
        * [手机报表分类](fen_lei_guan_li_app.md)
