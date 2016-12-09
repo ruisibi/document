@@ -35,7 +35,7 @@
    * [数据报表](rui_si_bao_biao.md)
        * [定制报表](ding_zhi_bao_biao.md)
            * [表格](biao_ge.md)
-           * 图形
+           * [图形](r_tu_xing.md)
            * 参数
            * 布局
        * [报表查看](bao_biao_cha_kan.md)
