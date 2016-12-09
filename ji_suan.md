@@ -10,5 +10,5 @@
 
 ![](/assets/import30.png)
 
-4
+4。
 
