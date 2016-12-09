@@ -34,11 +34,11 @@
        * [导出&打印](dao_51fa26_da_yin.md)
    * [数据报表](rui_si_bao_biao.md)
        * [定制报表](ding_zhi_bao_biao.md)
+           * 数据
            * [表格](biao_ge.md)
            * [图形](r_tu_xing.md)
            * [参数](can_shu.md)
            * [布局](bu_ju.md)
-           * 数据
        * [报表查看](bao_biao_cha_kan.md)
    * [移动BI](yi_dong_bi.md)
        * [手机报表分类](fen_lei_guan_li_app.md)
