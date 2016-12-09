@@ -4,7 +4,9 @@
 
 ![](/assets/import37.png)
 
-2.选择**导出**菜单，导出报表到HTML、WORD、Excel、PDF文件。
+2.点击**导出**菜单，导出报表到HTML、WORD、Excel、PDF文件。
 
 ![](/assets/import38.png)
+
+3.点击**打印**菜单，通过浏览器打印报表页面。
 
