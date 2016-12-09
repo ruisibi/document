@@ -6,7 +6,9 @@
 
 2.在钻取的下拉菜单中选择需要钻取的维度。![](/assets/import26.png)
 
-![](/assets/import26.png)
+3.点击**+号**继续钻取、点击**-号**回滚到上级。
 
-![](/assets/import26.png)
+
+
+
 
