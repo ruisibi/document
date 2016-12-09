@@ -34,7 +34,7 @@
        * [导出&打印](dao_51fa26_da_yin.md)
    * [数据报表](rui_si_bao_biao.md)
        * [定制报表](ding_zhi_bao_biao.md)
-           * 数据
+           * [数据](shu_ju.md)
            * [表格](biao_ge.md)
            * [图形](r_tu_xing.md)
            * [参数](can_shu.md)
