@@ -31,7 +31,7 @@
        * [钻取](zuan_qu.md)
        * [计算](ji_suan.md)
        * [图形](tu_xing.md)
-       * 导出\/打印
+       * 导出&打印
    * [数据报表](rui_si_bao_biao.md)
    * [移动BI](yi_dong_bi.md)
        * [手机报表分类](fen_lei_guan_li_app.md)
