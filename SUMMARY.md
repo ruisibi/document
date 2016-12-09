@@ -31,7 +31,7 @@
        * [钻取](zuan_qu.md)
        * [计算](ji_suan.md)
        * [图形](tu_xing.md)
-       * 参数
+       * [参数](olap_can_shu.md)
        * [导出&打印](dao_51fa26_da_yin.md)
    * [数据报表](rui_si_bao_biao.md)
        * [定制报表](ding_zhi_bao_biao.md)
