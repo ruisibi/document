@@ -38,7 +38,7 @@
             * [数据](shu_ju.md)
             * [表格](biao_ge.md)
             * [图形](r_tu_xing.md)
-            * [事件](事件.md)
+            * [事件](shi_jian.md)
             * [参数](can_shu.md)
             * [布局](bu_ju.md)
             * [保存](bao_cun.md)
