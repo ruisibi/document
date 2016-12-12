@@ -40,7 +40,7 @@
             * [图形](r_tu_xing.md)
             * [事件](shi_jian.md)
             * [参数](can_shu.md)
-            * [布局](bu_ju.md)
+            * [布局&拖拽](bu_ju.md)
             * [保存](bao_cun.md)
         * [报表查看](bao_biao_cha_kan.md)
     * [移动BI](yi_dong_bi.md)
