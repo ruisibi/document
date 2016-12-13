@@ -6,7 +6,5 @@
 
 app演示账号/密码： test/123456
 
-
-
-安卓用户也可通过URL地址下载： 
+安卓用户也可通过URL地址下载：[http://www.ruisitech.com/files/yun.apk](http://www.ruisitech.com/files/yun.apk)
 
