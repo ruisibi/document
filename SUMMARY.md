@@ -47,4 +47,5 @@
         * [手机报表分类](fen_lei_guan_li_app.md)
         * [创建手机报表](chuang_jian_shou_ji_bao_biao.md)
         * [手机报表管理](shou_ji_bao_biao_guan_li.md)
+        * [浏览手机报表](llsjbb.md)
 
