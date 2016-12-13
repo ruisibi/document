@@ -43,11 +43,11 @@ create database yunbi          //创建 yunbi数据库
 在命令提示符（CMD）里用mysql命令还原数据到数据库中，相关命令为：
 
 ```
-mysql –uroot –pxxxxxx yunbi_sys<yunbi_sys.bak  
-mysql –uroot –pxxxxxx yunbi<yunbi.bak
+mysql –uroot –pxxxxxx yunbi_sys<G:\data\yunbi_sys.bak  
+mysql –uroot –pxxxxxx yunbi<G:\data\yunbi.bak
 ```
 
-其中xxxxxx代表你的数据库root账号的密码。
+请注意bak文件路径，其中xxxxxx代表你的数据库root账号的密码。
 
 5.安装程序
 
