@@ -40,11 +40,11 @@ create database yunbi_sys      //创建yunbi_sys数据库
 create database yunbi          //创建 yunbi数据库
 ```
 
-用mysql命令还原数据到数据库中，相关命令为：
+在命令提示符（CMD）里用mysql命令还原数据到数据库中，相关命令为：
 
 ```
- mysql –uroot –pxxxxxx yunbi_sys<yunbi_sys.bak  
- mysql –uroot –pxxxxxx yunbi<yunbi.bak
+mysql –uroot –pxxxxxx yunbi_sys<yunbi_sys.bak  
+mysql –uroot –pxxxxxx yunbi<yunbi.bak
 ```
 
 其中xxxxxx代表你的数据库root账号的密码。
@@ -55,9 +55,9 @@ create database yunbi          //创建 yunbi数据库
 
 修改 bi/WEB-INF/classes/database.properties 文件，主要修改 password 这项内容，既你数据库账户root的密码，如果您的MYSQL root密码是123456，则不用修改。
 
-`driver=com.mysql.jdbc.Driver  
-url=jdbc:mysql://localhost/yunbi?useUnicode=true&characterEncoding=UTF8  
-username=root  
+`driver=com.mysql.jdbc.Driver    
+url=jdbc:mysql://localhost/yunbi?useUnicode=true&characterEncoding=UTF8    
+username=root    
 password=123456`
 
 启动tomcat, 输入 [http://localhost:8080/bi](http://localhost:8080/bi) 访问系统，如果看到登录页面，系统配置成功。
