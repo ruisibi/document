@@ -19,7 +19,7 @@
 * 移动BI
 
 
-### 直接下载PDF阅读：[http://www.ruisitech.com/files/ruisi\_doc.pdf](http://www.ruisitech.com/files/ruisi_doc.pdf)
+### 直接下载PDF阅读：[http://www.ruisitech.com/doc/rsbi\_doc.pdf](http://www.ruisitech.com/doc/rsbi_doc.pdf "下载")
 
 ### 问题反馈：[http://www.ruisitech.com/suggest.html](http://www.ruisitech.com/suggest.html)
 
