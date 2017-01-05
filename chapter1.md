@@ -1,10 +1,10 @@
 # 系统安装
 
-所需软件及版本：
-
-* MySQL5.0及以上版本；
-* JDK1.5及以上版本；
-* Tomcat5.5及以上版本;
+> 所需软件及版本：
+>
+> * MySQL5.0及以上版本；
+> * JDK1.5及以上版本；
+> * Tomcat5.5及以上版本;
 
 从[北京睿思科技有限公司](http://www.ruisitech.com)网站下载最新版“睿思BI”标准版程序，下载地址：[睿思BI下载](http://www.ruisitech.com/download.html)
 
