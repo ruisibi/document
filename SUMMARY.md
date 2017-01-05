@@ -37,6 +37,7 @@
     * [数据报表](rui_si_bao_biao.md)
         * [定制报表](ding_zhi_bao_biao.md)
             * [数据](shu_ju.md)
+            * [表格](表格.md)
             * [交叉表](biao_ge.md)
             * [图形](r_tu_xing.md)
             * [事件](shi_jian.md)
