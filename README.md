@@ -20,7 +20,7 @@
 
 ### 直接下载PDF阅读：[http://www.ruisitech.com/doc/rsbi\_doc.pdf](http://www.ruisitech.com/doc/rsbi_doc.pdf "下载")
 
-### 问题反馈：[http://www.ruisitech.com/suggest.html](http://www.ruisitech.com/suggest.html)
+### 睿思BI系统在线试用：[http://bi.rosetech.cn](http://bi.rosetech.cn)
 
 
 
