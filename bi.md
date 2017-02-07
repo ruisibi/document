@@ -13,3 +13,5 @@
 
 定制开发：根据客户需求开发满足客户的界面、报表、仪表盘等内容。
 
+系统地址：[http://bi.rosetech.cn](http://bi.rosetech.cn)
+
