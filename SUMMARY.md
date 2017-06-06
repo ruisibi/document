@@ -51,4 +51,5 @@
     * [手机报表管理](shou_ji_bao_biao_guan_li.md)
     * [浏览手机报表](llsjbb.md)
 * [云端BI](bi.md)
+* [常见问题](chang-jian-wen-ti.md)
 
