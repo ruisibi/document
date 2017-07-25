@@ -20,7 +20,7 @@
 
 ### news：
 
-睿思BI商业智能系统V4.0已经发布，欢迎您的体验。
+睿思BI商业智能系统V4.0已经发布，欢迎您的体验。[下载试用](http://www.ruisitech.com/download.html)
 
 ### 直接下载PDF阅读：[http://www.ruisitech.com/doc/rsbi\_doc.pdf](http://www.ruisitech.com/doc/rsbi_doc.pdf "下载")
 
