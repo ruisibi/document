@@ -45,6 +45,7 @@
       * [布局&拖拽](bu_ju.md)
       * [保存](bao_cun.md)
     * [报表查看](bao_biao_cha_kan.md)
+    * [报表发布到菜单](bao-biao-fa-bu-dao-cai-dan.md)
   * [移动BI](yi_dong_bi.md)
     * [手机报表分类](fen_lei_guan_li_app.md)
     * [创建手机报表](chuang_jian_shou_ji_bao_biao.md)
