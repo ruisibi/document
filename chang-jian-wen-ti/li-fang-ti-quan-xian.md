@@ -10,3 +10,7 @@
 
 3.点击** 保存 **完成授权。
 
+4.在 ext-config.xml 文件打开权限控，配置信息如下：
+
+&lt;constant name="authCube" value="true"/&gt;
+
