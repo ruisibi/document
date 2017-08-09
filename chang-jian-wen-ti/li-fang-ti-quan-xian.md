@@ -14,3 +14,5 @@
 
 &lt;constant name="authCube" value="true"/&gt;
 
+5.启用后，在多位分析，数据报表等功能模块已实现立方体权限控制。
+
