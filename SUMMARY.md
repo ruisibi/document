@@ -51,6 +51,7 @@
     * [创建手机报表](chuang_jian_shou_ji_bao_biao.md)
     * [手机报表管理](shou_ji_bao_biao_guan_li.md)
     * [浏览手机报表](llsjbb.md)
+  * [权限管理](quan-xian-guan-li.md)
 * [云端BI](bi.md)
 * [常见问题](chang-jian-wen-ti.md)
   * [地图地域对照表](chang-jian-wen-ti/di-tu-di-yu-dui-zhao-biao.md)
