@@ -19,7 +19,7 @@
     * [手机端填报](shou_ji_duan_tian_bao.md)
     * [数据管理](shu_ju_guan_li.md)
   * [数据查询](ming_xi_cha_xun.md)
-    * [建模](jian_mo.md)
+    * [选择表](jian_mo.md)
     * [查询及导出](cha_xun.md)
     * [透视表](透视表.md)
     * [做图](zuo_tu.md)
