@@ -53,8 +53,8 @@
     * [浏览手机报表](llsjbb.md)
   * [权限管理](quan-xian-guan-li.md)
     * [用户管理](quan-xian-guan-li/yong-hu-guan-li.md)
-    * 角色管理
-    * 菜单管理
+    * [角色管理](quan-xian-guan-li/jiao-se-guan-li.md)
+    * [菜单管理](quan-xian-guan-li/cai-dan-guan-li.md)
 * [云端BI](bi.md)
 * [常见问题](chang-jian-wen-ti.md)
   * [地图地域对照表](chang-jian-wen-ti/di-tu-di-yu-dui-zhao-biao.md)
