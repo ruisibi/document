@@ -54,6 +54,7 @@
   * [权限管理](quan-xian-guan-li.md)
     * [用户管理](quan-xian-guan-li/yong-hu-guan-li.md)
     * [角色管理](quan-xian-guan-li/jiao-se-guan-li.md)
+    * [角色权限](quan-xian-guan-li/jiao-se-quan-xian.md)
     * [菜单管理](quan-xian-guan-li/cai-dan-guan-li.md)
 * [云端BI](bi.md)
 * [常见问题](chang-jian-wen-ti.md)
