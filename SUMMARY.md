@@ -4,7 +4,7 @@
 * [系统架构](xi-tong-jia-gou.md)
   * [技术架构](xi-tong-jia-gou/ji-zhu-jia-gou.md)
   * [业务架构](xi-tong-jia-gou/ye-wu-jia-gou.md)
-  * 数据仓库架构
+  * [数据仓库架构](xi-tong-jia-gou/shu-ju-cang-ku-jia-gou.md)
 * [系统安装](chapter1.md)
 * [功能列表](gong_neng.md)
   * [数据导入](shu_ju_dao_ru.md)
