@@ -10,6 +10,7 @@
     * [配置信息](pei_zhi_xin_xi.md)
     * [数据转换](shu_ju_zhuan_huan.md)
     * [SQL脚本](sqljiao_ben.md)
+    * [注册已有表](zhu-ce-yi-you-biao.md)
     * [已有数据](yi_you_shu_ju.md)
     * [任务管理](ren_wu_guan_li.md)
   * [数据填报](shu_ju_tian_bao.md)
