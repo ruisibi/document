@@ -66,4 +66,5 @@
   * [地图地域对照表](chang-jian-wen-ti/di-tu-di-yu-dui-zhao-biao.md)
   * [数据权限](chang-jian-wen-ti/shu-ju-quan-xian.md)
   * [立方体权限](chang-jian-wen-ti/li-fang-ti-quan-xian.md)
+  * [临时文件目录](chang-jian-wen-ti/lin-shi-wen-jian-mu-lu.md)
 
