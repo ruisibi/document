@@ -67,4 +67,5 @@
   * [数据权限](chang-jian-wen-ti/shu-ju-quan-xian.md)
   * [立方体权限](chang-jian-wen-ti/li-fang-ti-quan-xian.md)
   * [临时文件目录](chang-jian-wen-ti/lin-shi-wen-jian-mu-lu.md)
+  * [地图钻取](chang-jian-wen-ti/di-tu-zuan-qu.md)
 
