@@ -26,9 +26,9 @@
 
 ### 睿思BI在线试用：[http://bi.rosetech.cn](http://bi.rosetech.cn) （标准版）
 
-### 标准版下载地址：[http://www.ruisitech.com/download.html](http://www.ruisitech.com/download.html)
+### 标准版下载：[http://www.ruisitech.com/download.html](http://www.ruisitech.com/download.html)
 
-### 开源版下载地址:  [https://github.com/ruisibi/rsbi-pom](https://github.com/ruisibi/rsbi-pom)
+### 开源版下载:  [https://github.com/ruisibi/rsbi-pom](https://github.com/ruisibi/rsbi-pom)
 
 |  | 标准版 | 开源版 |
 | :--- | :--- | :--- |
