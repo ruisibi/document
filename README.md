@@ -37,7 +37,7 @@
 | 是否付费 | 需要购买，按套付费 | 采用APACHE2.0开源协议，可任意下载使用 |
 | 技术支持 | 购买后包含一年技术支持及产品升级 | 不包含 |
 | 源码 | 购买后包含全部源码 | 包含部分源码 |
-| 下载地址 | [http://www.ruisitech.com/download.html](http://www.ruisitech.com/download.html) | [https://github.com/ruisibi/dashboard](https://github.com/ruisibi/dashboard) |
+| 下载地址 | [http://www.ruisitech.com/download.html](http://www.ruisitech.com/download.html) | [https://github.com/ruisibi/rsbi-pom](https://github.com/ruisibi/rsbi-pom) |
 
 
 
