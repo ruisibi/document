@@ -26,9 +26,24 @@
 
 ### 睿思BI在线试用：[http://bi.rosetech.cn](http://bi.rosetech.cn)
 
-### 标准版下载地址：
+### 标准版下载地址：[http://www.ruisitech.com/download.html](http://www.ruisitech.com/download.html)
 
-### 开源版下载地址:
+### 开源版下载地址:  [https://github.com/ruisibi/rsbi-pom](https://github.com/ruisibi/rsbi-pom)
+
+
+
+| 标准版-开原版比较 |
+| :---: |
+
+
+|  | 标准版 | 开源版 |
+| :--- | :--- | :--- |
+| 功能 | 数据ETL，数据填报，数据查询，数据建模，多维分析，数据报表，移动BI，权限管理 | 数据建模，多维分析，数据报表，移动BI，权限管理 |
+| 版本号 | V4.0 | V4.0 |
+| 是否付费 | 需要购买，按套付费 | 采用APACHE2.0开源协议，可任意下载使用 |
+| 技术支持 | 购买后包含一年技术支持及产品升级 | 不包含 |
+| 源码 | 购买后包含全部源码 | 包含部分源码 |
+| 下载地址 | http://www.ruisitech.com/download.html | https://github.com/ruisibi/dashboard |
 
 
 
