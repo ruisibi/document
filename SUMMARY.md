@@ -56,6 +56,7 @@
     * [创建手机报表](chuang_jian_shou_ji_bao_biao.md)
     * [手机报表管理](shou_ji_bao_biao_guan_li.md)
     * [浏览手机报表](llsjbb.md)
+    * [报表分享](bao-biao-gong-xiang.md)
   * [权限管理](quan-xian-guan-li.md)
     * [用户管理](quan-xian-guan-li/yong-hu-guan-li.md)
     * [角色管理](quan-xian-guan-li/jiao-se-guan-li.md)
