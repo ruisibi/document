@@ -24,7 +24,7 @@
 
 #### 直接下载PDF阅读：[http://www.ruisitech.com/doc/rsbi\_doc.pdf](http://www.ruisitech.com/doc/rsbi_doc.pdf "下载")
 
-#### 睿思BI在线试用：[http://bi.rosetech.cn](http://bi.rosetech.cn) （标准版）
+#### 睿思BI在线试用：[http://bi.ruisitech.com](http://bi.ruisitech.com) （标准版）
 
 #### 标准版下载：[http://www.ruisitech.com/download.html](http://www.ruisitech.com/download.html)
 
