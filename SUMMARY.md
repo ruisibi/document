@@ -71,6 +71,7 @@
   * [多维分析模块地图展现及钻取插件](kai-yuan-ban-cha-jian-ji-fu-wu/duo-wei-fen-xi-mo-kuai-di-tu-zhan-xian-ji-zuan-qu-cha-jian.md)
   * [数据报表模块报表分享插件](kai-yuan-ban-cha-jian-ji-fu-wu/shu-ju-bao-biao-mo-kuai-bao-biao-fen-xiang-cha-jian.md)
   * [移动BI模块手机报表分享插件](kai-yuan-ban-cha-jian-ji-fu-wu/yi-dong-bi-mo-kuai-shou-ji-bao-biao-fen-xiang-cha-jian.md)
+  * [技术支持](kai-yuan-ban-cha-jian-ji-fu-wu/ji-zhu-zhi-chi.md)
 * [云端BI](bi.md)
 * [常见问题](chang-jian-wen-ti.md)
   * [地图地域对照表](chang-jian-wen-ti/di-tu-di-yu-dui-zhao-biao.md)
