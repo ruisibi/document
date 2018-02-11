@@ -64,6 +64,7 @@
     * [角色权限](quan-xian-guan-li/jiao-se-quan-xian.md)
     * [菜单管理](quan-xian-guan-li/cai-dan-guan-li.md)
 * [开源版插件及服务](kai-yuan-ban-cha-jian-ji-fu-wu.md)
+  * [数据ETL插件](kai-yuan-ban-cha-jian-ji-fu-wu/shu-ju-etl-cha-jian.md)
 * [云端BI](bi.md)
 * [常见问题](chang-jian-wen-ti.md)
   * [地图地域对照表](chang-jian-wen-ti/di-tu-di-yu-dui-zhao-biao.md)
