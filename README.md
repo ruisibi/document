@@ -20,7 +20,7 @@
 
 * 权限管理
 
-#### 系统分标准版和开原版，标准版需要购买，开原版采用 apache2.0开源协议，用户可以任意使用。
+#### 系统分标准版和开源版，标准版需要购买，开源版采用 apache2.0开源协议，用户可以任意使用。
 
 #### 直接下载PDF阅读：[http://www.ruisitech.com/doc/rsbi\_doc.pdf](http://www.ruisitech.com/doc/rsbi_doc.pdf "下载")
 

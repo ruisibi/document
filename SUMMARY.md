@@ -69,6 +69,7 @@
   * [数据查询插件](kai-yuan-ban-cha-jian-ji-fu-wu/shu-ju-cha-xun-cha-jian.md)
   * [数据建模模块度量分类插件](kai-yuan-ban-cha-jian-ji-fu-wu/shu-ju-jian-mo-mo-kuai-du-liang-fen-lei-cha-jian.md)
   * [多维分析模块地图展现及钻取插件](kai-yuan-ban-cha-jian-ji-fu-wu/duo-wei-fen-xi-mo-kuai-di-tu-zhan-xian-ji-zuan-qu-cha-jian.md)
+  * [多维分析模块钻取到明细插件](kai-yuan-ban-cha-jian-ji-fu-wu/duo-wei-fen-xi-mo-kuai-zuan-qu-dao-ming-xi-cha-jian.md)
   * [数据报表模块报表分享插件](kai-yuan-ban-cha-jian-ji-fu-wu/shu-ju-bao-biao-mo-kuai-bao-biao-fen-xiang-cha-jian.md)
   * [移动BI模块手机报表分享插件](kai-yuan-ban-cha-jian-ji-fu-wu/yi-dong-bi-mo-kuai-shou-ji-bao-biao-fen-xiang-cha-jian.md)
   * [技术支持](kai-yuan-ban-cha-jian-ji-fu-wu/ji-zhu-zhi-chi.md)
