@@ -2,9 +2,9 @@
 
 > 所需软件及版本：
 >
-> * MySQL5.0及以上版本；
-> * JDK1.5及以上版本；
-> * Tomcat5.5及以上版本;
+> * MySQL5.5及以上版本；
+> * JDK1.6及以上版本；
+> * Tomcat7.0及以上版本;
 
 从[北京睿思科技有限公司](http://www.ruisitech.com)网站下载最新版“睿思BI”标准版程序，下载地址：[睿思BI下载](http://www.ruisitech.com/download.html)
 
@@ -51,15 +51,15 @@ mysql –uroot –pxxxxxx yunbi<G:\data\yunbi.bak
 
 5.安装程序
 
-解压下载文件夹中bi.zip, 把解压的文件拷入 TOMCAT 的 webapps 目录，目录名称 bi。
+把下载文件夹中bi.war拷入 TOMCAT 的 webapps 目录。启动Tomcat后文件会自动解压到bi目录。
 
-修改 bi/WEB-INF/classes/database.properties 文件，主要修改 password 这项内容，既你数据库账户root的密码，如果您的MYSQL root密码是123456，则不用修改。
+修改 bi/WEB-INF/classes/application.properties 文件，主要修改 password 这项内容，既你数据库账户root的密码，如果您的MYSQLroot密码是123456，则不用修改。
 
 ```
-driver=com.mysql.jdbc.Driver 
-url=jdbc:mysql://localhost/yunbi?useUnicode=true&characterEncoding=UTF8 
-username=root 
-password=123456    //修改此处密码
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://localhost:3306/yunbi?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
+jdbc.username=root
+jdbc.password=123456
 ```
 
 启动tomcat, 输入 [http://localhost:8080/bi](http://localhost:8080/bi) 访问系统，如果看到登录页面，系统配置成功。
@@ -75,4 +75,34 @@ password=123456    //修改此处密码
 ![lic文件](QQ图片20161207095559.png)
 
 重启系统。
+
+7.其他配置
+
+1.） 上传文件地址配置：
+
+修改bi/WEB-INF/ext2/ext-config/ext-config.xml文件如下内容：
+
+```
+<constant name="upFilePath" value="/webdata/tmpdata/" />
+```
+
+其中upFilePath常量配置的地址即为上传文件存放地址。配置完成后上传的图片，csv，excel文件会放到此目录。
+
+2.） 发送邮件账户配置：
+
+修改 bi/WEB-INF/classes/application.properties 文件如下内容：
+
+```
+#######################################发送邮件配置###############################################
+#发邮件的服务器地址
+mail.host=smtp.163.com
+#端口
+mail.port=25
+#发邮件账号
+mail.userName=ruisitech@163.com
+#发邮件密码
+mail.password=
+```
+
+填写您的发邮件账号信息。
 
