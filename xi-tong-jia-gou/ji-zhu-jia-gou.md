@@ -1,12 +1,6 @@
 # 技术架构
 
-![](/assets/import178.png)
+采用 springmvc + spring + mybatis 经典架构，易于掌握学习。
 
-持久层采用iBatis框架；
-
-业务逻辑层采用spring/service框架；
-
-控制层采用 Struts2框架；
-
-展现层采用bootstrap/jqueryui/echarts 框架。
+展现层采用jstl/bootstrap/jqueryui/echarts 框架。
 
