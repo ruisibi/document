@@ -74,7 +74,7 @@
   * [移动BI模块手机报表分享插件](kai-yuan-ban-cha-jian-ji-fu-wu/yi-dong-bi-mo-kuai-shou-ji-bao-biao-fen-xiang-cha-jian.md)
   * [技术支持](kai-yuan-ban-cha-jian-ji-fu-wu/ji-zhu-zhi-chi.md)
 * [云端BI](bi.md)
-* [常见问题](chang-jian-wen-ti.md)
+* [其他功能](chang-jian-wen-ti.md)
   * [地图地域对照表](chang-jian-wen-ti/di-tu-di-yu-dui-zhao-biao.md)
   * [数据权限](chang-jian-wen-ti/shu-ju-quan-xian.md)
   * [立方体权限](chang-jian-wen-ti/li-fang-ti-quan-xian.md)
