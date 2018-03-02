@@ -44,6 +44,7 @@
       * [数据](shu_ju.md)
       * [表格](表格.md)
       * [交叉表](biao_ge.md)
+      * [图片](tu-pian.md)
       * [图形](r_tu_xing.md)
       * [事件](shi_jian.md)
       * [参数](can_shu.md)
