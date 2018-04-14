@@ -27,7 +27,7 @@
   * [数据查询](ming_xi_cha_xun.md)
     * [选择表](jian_mo.md)
     * [查询及导出](cha_xun.md)
-    * [透视表](透视表.md)
+    * [透视表](tsb.md)
     * [透视图](zuo_tu.md)
   * [数据建模](shu_ju_jian_mo.md)
     * [分类管理](fen_lei_guan_li.md)
