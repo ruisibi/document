@@ -12,7 +12,7 @@
 
 进入github下载源码，下载地址：[https://github.com/ruisibi/rsbi-pom](https://github.com/ruisibi/rsbi-pom)，点击 Download Zip 下载源码，并解压。
 
-1. 导入Eclipse：
+2. 导入Eclipse：
 
 在eclipse中点击导入菜单，选择Existing Maven Projects ，点击下一步，选择刚才下载的源码，导入源码到eclipse。
 
