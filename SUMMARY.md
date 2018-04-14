@@ -50,7 +50,6 @@
       * [事件](shi_jian.md)
       * [参数](can_shu.md)
       * [布局&拖拽](bu_ju.md)
-      * 数据块
     * [报表查看](bao_biao_cha_kan.md)
     * [报表发布到菜单](bao-biao-fa-bu-dao-cai-dan.md)
     * [报表分享](bao-biao-fen-xiang.md)
