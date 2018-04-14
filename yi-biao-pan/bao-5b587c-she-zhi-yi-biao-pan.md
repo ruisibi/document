@@ -12,3 +12,7 @@
 
 ![](/assets/import794.png)
 
+4.点击**设置**按钮设置仪表盘。
+
+![](/assets/import795.png)
+
