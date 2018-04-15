@@ -33,6 +33,7 @@
     * [分类管理](fen_lei_guan_li.md)
     * [创建模型](chuang_jian_mo_xing.md)
     * [已建模管理](yi_jian_mo_guan_li.md)
+  * [数据建模（开源版）](shu-ju-jian-mo-2.md)
   * [多维分析](duo_wei_fen_xi.md)
     * [拖拽分析](tuo_ye_fen_xi.md)
     * [钻取](zuan_qu.md)
