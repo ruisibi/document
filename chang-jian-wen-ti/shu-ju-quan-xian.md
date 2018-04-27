@@ -30,7 +30,7 @@ public class DataControlImp implements DataControlInterface {
 }
 ```
 
-然后在 applicationContext-persistence.xml 中注入您创建的类：
+然后在 applicationContext-persistence.xml 中注入您创建的类（替换以前的系统默认类）：
 
 ```java
 <!-- 数据权限bean -->
