@@ -30,10 +30,11 @@ public class DataControlImp implements DataControlInterface {
 }
 ```
 
-然后在 ext-config.xml 中添加配置：
+然后在 applicationContext-persistence.xml 中注入您创建的类：
 
 ```java
-<constant name="dataControl" value="com.ruisi.vdop.ser.ruisibi.DataControlImp"/>
+<!-- 数据权限bean -->
+<bean class="com.ruisitech.ext.service.DataControlImpl" name="dataControl"></bean>
 ```
 
 
