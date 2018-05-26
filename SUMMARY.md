@@ -91,5 +91,6 @@
   * [地图钻取](chang-jian-wen-ti/di-tu-zuan-qu.md)
   * [日期上标注节日](chang-jian-wen-ti/ri-qi-shang-biao-zhu-jie-ri.md)
   * [控制图形图例颜色](chang-jian-wen-ti/kong-zhi-tu-xing-xu-lie-yan-se.md)
+  * [自定义图形组件](chang-jian-wen-ti/zi-ding-yi-tu-xing-zu-jian.md)
 * [常见问题](chang-jian-wen-ti-2.md)
 
