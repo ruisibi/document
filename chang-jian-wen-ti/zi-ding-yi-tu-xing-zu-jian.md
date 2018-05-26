@@ -46,5 +46,5 @@ public int createChartJS(boolean toPic) throws JspException {
 
 3.在报表，多维的js中添加 shape 为 test 的图形组件。
 
-通过更改图形class类实现，也能自定义自己的基础图形。
+通过更改图形class类实现，也能更改系统的基础图形。
 
