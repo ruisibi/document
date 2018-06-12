@@ -17,7 +17,7 @@
 <chart shape="scatterMap" class="com.ruisi.ext.engine.view.emitter.chart.echarts.ScatterMapChart"/>
 ```
 
-创建自定义图形组建过程如下:
+创建自定义图形组件过程如下:
 
 1.继承 AbstractChartEmitter 类并实现ChartEmitter接口，如下：
 
