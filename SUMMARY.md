@@ -18,7 +18,6 @@
     * [数据转换](shu_ju_zhuan_huan.md)
     * [SQL脚本](sqljiao_ben.md)
     * [注册已有表](zhu-ce-yi-you-biao.md)
-    * 通过Rest接口导入
   * [数据填报](shu_ju_tian_bao.md)
     * [创建填报表](chuang_jian_tian_bao_biao.md)
     * [填报表管理](tian_bao_biao_guan_li.md)
