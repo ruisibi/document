@@ -13,12 +13,12 @@
     * [Excel导入](exceldao_ru.md)
     * [数据库导入](shu_ju_ku_dao_ru.md)
     * [Hadoop导入](hadoopdao-ru.md)
+    * [通过Rest接口导入](tong-guo-rest-jie-kou-dao-ru.md)
     * [配置信息](pei_zhi_xin_xi.md)
     * [数据转换](shu_ju_zhuan_huan.md)
     * [SQL脚本](sqljiao_ben.md)
     * [注册已有表](zhu-ce-yi-you-biao.md)
-    * [已有数据](yi_you_shu_ju.md)
-    * Hadoop导入
+    * 通过Rest接口导入
   * [数据填报](shu_ju_tian_bao.md)
     * [创建填报表](chuang_jian_tian_bao_biao.md)
     * [填报表管理](tian_bao_biao_guan_li.md)
