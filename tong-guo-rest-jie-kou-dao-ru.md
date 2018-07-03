@@ -2,7 +2,7 @@
 
 系统默认支持文本/excel/数据库/Hadoop等多种数据源，但其他的数据来源比如web Service，access，其他等，系统未提供完全支持，但系统提供Rest接口，用户可以调用此接口直接向BI系统写数据。
 
-接口地址：http://localhost:8082/rsbi/etl/dataImpRest.action 其中 rsbi 是我的项目名。
+接口地址：[http://localhost:8082/rsbi/etl/dataImpRest.action](http://localhost:8082/rsbi/etl/dataImpRest.action) 其中 rsbi 是我的项目名。
 
 请求方式：POST
 
@@ -25,7 +25,7 @@
 
 tableName：需要写数据的表名称。
 
-truncate：是否清楚目标表数据，true/false
+truncate：是否清除目标表数据，true/false
 
 cols：当前数据和目标表的映射关系。
 
