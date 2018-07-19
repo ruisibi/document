@@ -1,6 +1,6 @@
 # 通过单点登录实现BI系统和其他系统的整合
 
-睿思BI系统有自己一套登录，用户，角色管理模块，也可以通过单点登录功能实现和用户已有系统实现整合，整合步骤如下：
+睿思BI系统有自己一套登录，用户，角色管理模块，也可以通过单点登录功能和用户已有系统实现整合，整合步骤如下：
 
 1.用户的系统提供Rest接口，BI系统通过此接口获取用户信息，接口返回信息如下:
 
@@ -17,7 +17,7 @@
 sso.url.userInfo=http://localhost:8082/rsbi/resource/user.json
 ```
 
-3.通过 http://localhost:8082/rsbi/frame/Frame.action?rsbiToken=abc 方式直接访问BI系统，其中 rsbiToken 是BI系统用来验证登陆的token，此token会被传递到sso.url.userInfo中配置的接口中，用户提供接口需要实现按此token返回用户信息，如果用户不存在直接返回空。如果token信息无误，只要在BI系统的URL后面增加rsbiToken=abc参数，即可实现自动登录。
+3.通过 [http://localhost:8082/rsbi/frame/Frame.action?rsbiToken=abc](http://localhost:8082/rsbi/frame/Frame.action?rsbiToken=abc) 方式直接访问BI系统，其中 rsbiToken 是BI系统用来验证登陆的token，此token会被传递到sso.url.userInfo中配置的接口中，用户提供接口需要实现按此token返回用户信息，如果用户不存在直接返回空。如果token信息无误，只要在BI系统的URL后面增加rsbiToken=abc参数，即可实现自动登录。
 
-4.如果用户系统注销登录，需要调用bi系统的 http://localhost:8082/rsbi/frame/Logout.action 接口注销BI系统的登录信息。
+4.如果用户系统注销登录，需要调用bi系统的 [http://localhost:8082/rsbi/frame/Logout.action](http://localhost:8082/rsbi/frame/Logout.action) 接口注销BI系统的登录信息。
 
