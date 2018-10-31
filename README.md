@@ -16,6 +16,8 @@
 
 * 数据报表
 
+* 仪表盘
+
 * 移动BI
 
 * 权限管理
@@ -24,7 +26,7 @@
 
 #### 直接下载PDF阅读：[http://www.ruisitech.com/doc/rsbi\_doc.pdf](http://www.ruisitech.com/doc/rsbi_doc.pdf "下载")
 
-#### 睿思BI在线试用：[http://bi.ruisitech.com](http://bi.ruisitech.com) （标准版）
+#### 睿思云：[https://www.ruisitech.com/cloud](https://www.ruisitech.com/cloud)
 
 #### 标准版下载：[http://www.ruisitech.com/download.html](http://www.ruisitech.com/download.html)
 
