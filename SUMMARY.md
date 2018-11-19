@@ -97,5 +97,6 @@
   * [从Hive导入数据](chang-jian-wen-ti/cong-hive-dao-ru-shu-ju.md)
   * [单点登录](chang-jian-wen-ti/dan-dian-deng-lu.md)
   * [扩展数据库导入功能](chang-jian-wen-ti/kuo-zhan-shu-ju-ku.md)
+  * [基于ElasticSearch进行数据可视化](chang-jian-wen-ti/ji-yu-elasticsearch-jin-xing-shu-ju-ke-shi-hua.md)
 * [常见问题](chang-jian-wen-ti-2.md)
 
