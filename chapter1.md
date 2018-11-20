@@ -18,15 +18,15 @@ MySQL下载地址：[MySQL5.5](http://www.ruisitech.com/tools/mysql5.5.27_win64_
 
 2.安装JDK
 
-JDK下载地址：[JDK7](http://www.ruisitech.com/tools/jdk-7u71-windows-x64.exe).下载完成后直接安装即可。安装完成后，请在环境变量中设置JAVA\_HOME, 如下图：
+JDK下载地址：[http://www.ruisitech.com/tools/jdk-8u191-windows-i586.exe](http://www.ruisitech.com/tools/jdk-8u191-windows-i586.exe).下载完成后直接安装即可。安装完成后，请在环境变量中设置JAVA\_HOME, 如下图：
 
 ![设置JDK环境变量](QQ图片20161206145332.png)
 
-本电脑上JDK路径：C:\Program Files\Java\jdk1.7.0\_71
+本电脑上JDK路径：C:\Program Files\Java\jdk1.8.0\_181
 
 3.安装Tomcat
 
-Tomcat下载地址：[Tomcat7.0](http://www.ruisitech.com/tools/apache-tomcat-7.0.61-windows-x64.zip)，下载完成后解压即可。进入Tomcat 的 bin 目录，执行startup.bat文件启动tomcat，如果启动失败，请先设置JAVA\_HOME环境变量。
+Tomcat下载地址：[http://www.ruisitech.com/tools/apache-tomcat-8.0.44-windows-x64.zip](http://www.ruisitech.com/tools/apache-tomcat-8.0.44-windows-x64.zip "Tomcat8")，下载完成后解压即可。进入Tomcat 的 bin 目录，执行startup.bat文件启动tomcat，如果启动失败，请先设置JAVA\_HOME环境变量。
 
 4.安装数据
 
@@ -105,4 +105,24 @@ mail.password=
 ```
 
 填写您的发邮件账号信息。
+
+3.\) elasticsearch配置：
+
+修改 bi/WEB-INF/classes/application.properties 文件如下内容：
+
+```
+################################elasticsearch ###############################################
+elasticsearch.url=http://172.30.3.224:9200
+```
+
+4.）单点登录配置：
+
+修改 bi/WEB-INF/classes/application.properties 文件如下内容：
+
+```
+################################sso 配置信息 ###############################################
+sso.url.userInfo=
+```
+
+
 
