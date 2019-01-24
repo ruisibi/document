@@ -4,5 +4,7 @@
 
 1.点击系统**仪表盘**菜单进入仪表盘页面，选择一个已经做好的仪表盘，如下图：
 
-![](/assets/importdp.png)2.当前仪表盘效果如下
+![](/assets/importdp.png)2.当前仪表盘打开后，点击设置按钮，设置仪表盘风格为大屏，如下图：![](/assets/importybp3.png)3.点击确定后仪表盘自动刷新到大屏风格，如下图：  
+![](/assets/importybp4.png)4.效果出来后，点击设置，复制仪表盘URL功能获取仪表盘地址，如下图：  
+![](/assets/importybp5.png)复制后的URL放入大屏电脑上即可。
 
