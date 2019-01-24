@@ -14,10 +14,15 @@
 
 ```
 ################################sso 配置信息 ###############################################
-sso.url.userInfo=http://localhost:8082/rsbi/resource/user.json
+#根据登录账号获取用户信息，可不配
+sso.url.userInfo.bystaff=
+#根据TOKEN获取用户信息，必须配置
+sso.url.userInfo.bytoken=http://localhost:8082/rsbi/resource/user.json
+#获取需要整合系统的用户列表，可不配
+sso.url.userList=
 ```
 
-3.通过 [http://localhost:8082/rsbi/frame/Frame.action?rsbiToken=abc](http://localhost:8082/rsbi/frame/Frame.action?rsbiToken=abc) 方式直接访问BI系统，其中 rsbiToken 是BI系统用来验证登陆的token，此token会被传递到sso.url.userInfo中配置的接口中，用户提供接口需要实现按此token返回用户信息，如果用户不存在直接返回空。如果token信息无误，只要在BI系统的URL后面增加rsbiToken=abc参数，即可实现自动登录。
+3.通过 [http://localhost:8082/rsbi/frame/Frame.action?rsbiToken=abc](http://localhost:8082/rsbi/frame/Frame.action?rsbiToken=abc) 方式直接访问BI系统，其中 rsbiToken 是BI系统用来验证登陆的token，此token会被传递到sso.url.userInfo.bytoken中配置的接口中，用户提供接口需要实现按此token返回用户信息，如果用户不存在直接返回空。如果token信息无误，只要在BI系统的URL后面增加rsbiToken=abc参数，即可实现自动登录。
 
 4.如果用户系统注销登录，需要调用bi系统的 [http://localhost:8082/rsbi/frame/Logout.action](http://localhost:8082/rsbi/frame/Logout.action) 接口注销BI系统的登录信息。
 
