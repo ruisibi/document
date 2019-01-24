@@ -74,7 +74,7 @@ jdbc.password=123456
 
 ![lic文件](QQ图片20161207095559.png)
 
-重启系统。
+至此，系统已经能够正常使用。如果需要更多功能，还需要如下配置。
 
 7.其他配置
 
@@ -121,7 +121,9 @@ elasticsearch.url=http://172.30.3.224:9200
 
 ```
 ################################sso 配置信息 ###############################################
-sso.url.userInfo=
+sso.url.userInfo.bystaff=
+sso.url.userInfo.bytoken=
+sso.url.userList=
 ```
 
 
