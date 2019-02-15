@@ -22,8 +22,6 @@
 
 * 权限管理
 
-#### 系统分标准版和开源版，标准版需要购买，开源版采用 apache2.0开源协议，用户可以任意使用。
-
 #### 直接下载PDF阅读：[http://www.ruisitech.com/doc/rsbi\_doc.pdf](http://www.ruisitech.com/doc/rsbi_doc.pdf "下载")
 
 #### 睿思云：[https://www.ruisitech.com/cloud](https://www.ruisitech.com/cloud)
@@ -32,7 +30,7 @@
 
 #### 开源版下载:  [https://github.com/ruisibi/rsbi-pom](https://github.com/ruisibi/rsbi-pom)
 
-|  | 标准版 | 开源版 | SaaS版（睿思云） |
+| 版本划分 | 标准版 | 开源版 | SaaS版（睿思云） |
 | :--- | :--- | :--- | :--- |
 | 功能 | 数据ETL，数据填报，数据查询，数据建模，多维分析，数据报表，移动BI，权限管理，仪表盘（大屏） | 数据建模，多维分析，数据报表，移动BI，权限管理 | 数据ETL，数据填报，数据查询，数据建模，多维分析，移动BI，仪表盘（大屏） |
 | 版本号 | V4.2 | V4.0 | V4.2 |
