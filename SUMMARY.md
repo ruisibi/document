@@ -14,7 +14,7 @@
     * [数据库导入](shu_ju_ku_dao_ru.md)
     * [Hadoop导入](hadoopdao-ru.md)
     * [通过Rest接口导入](tong-guo-rest-jie-kou-dao-ru.md)
-    * [配置信息](pei_zhi_xin_xi.md)
+    * [导入配置](pei_zhi_xin_xi.md)
     * [数据转换-表关联](shu_ju_zhuan_huan.md)
     * [数据转换-SQL脚本](sqljiao_ben.md)
     * [注册已有表](zhu-ce-yi-you-biao.md)
