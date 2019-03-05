@@ -8,7 +8,7 @@
 {"userId":1,"staffId":"admin","loginName":"系统管理员","gender":"女","state":1,"deptCode":"002"}
 ```
 
-其中：userId 用户ID最重要, 和 bi系统的sc\_login\_user用户表ID对应。
+其中：userId 用户ID最重要, ID 必须是数字类型。
 
 2.把此接口配置到 bi 系统的application.properties配置文件中，如下图:
 
