@@ -8,7 +8,13 @@
 {"userId":1,"staffId":"admin","loginName":"系统管理员","gender":"女","state":1,"deptCode":"002"}
 ```
 
-其中：userId 用户ID最重要, ID 必须是数字类型。
+其中：userId 用户ID最重要, ID 必须是数字类型；
+
+loginName是用户登录后显示的名字；
+
+state表示用户状态，1为启用，0为停用；
+
+deptCode表示用户所属部门的编码，用在数据权限中。
 
 2.把此接口配置到 bi 系统的application.properties配置文件中，如下图:
 
