@@ -49,6 +49,12 @@ mysql –uroot –pxxxxxx yunbi<G:\data\yunbi.bak
 
 请注意bak文件路径，其中xxxxxx代表你的数据库root账号的密码。
 
+如果mysql 在还原数据的时候报错：  Unknow n command '\''， 请在命令上加上编码语句，如下：
+
+```
+mysql -uroot -p --default-character-set=utf8  yunbi_sys<G:\data\yunbi_sys.bak
+```
+
 5.安装程序
 
 把下载文件夹中bi.war拷入 TOMCAT 的 webapps 目录。启动Tomcat后文件会自动解压到bi目录。
