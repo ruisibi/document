@@ -72,13 +72,13 @@ jdbc.password=123456
 
 登录用户名/密码：admin/123456
 
-6.安装License
+6.系统激活
 
-登录 [http://www.ruisitech.com/license.html](http://www.ruisitech.com/license.html) 下载 license文件。
+通过admin账户登录系统，在首页点击**激活试用**按钮，如下图:
 
-把下载的lic文件放入 bi/WEB-INF/ 目录下。
+ ![](/assets/import994.png)
 
-![lic文件](QQ图片20161207095559.png)
+录入基本信息，点击**确定**按钮完成激活。请注意，激活系统需要使用外网，请保证系统所在服务器能正常上网。激活成功后，用户可以免费使用30天，超过30天后需要购买才能继续使用，购买报价请进入我公司官网咨询。
 
 至此，系统已经能够正常使用。如果需要更多功能，还需要如下配置。
 
