@@ -73,6 +73,7 @@
     * [角色管理](quan-xian-guan-li/jiao-se-guan-li.md)
     * [角色权限](quan-xian-guan-li/jiao-se-quan-xian.md)
     * [菜单管理](quan-xian-guan-li/cai-dan-guan-li.md)
+    * [组织机构](quan-xian-guan-li/zu-zhi-ji-gou.md)
 * [开源版插件及服务](kai-yuan-ban-cha-jian-ji-fu-wu.md)
   * [数据ETL插件](kai-yuan-ban-cha-jian-ji-fu-wu/shu-ju-etl-cha-jian.md)
   * [数据填报插件](kai-yuan-ban-cha-jian-ji-fu-wu/shu-ju-tian-bao-cha-jian.md)
