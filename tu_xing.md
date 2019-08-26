@@ -6,17 +6,17 @@
 
 2.选择图形，点击**确定**按钮，**操作区**自动插入图形配置面板。
 
-![](/assets/import33.png)
+![](/assets/importn18.png)
 
 3.从**数据**选项卡拖拽维度到**横轴**或**图例**，拖拽**度量**到纵轴，系统自动刷新图形。
 
 4.点击横轴/图例图标可设置横轴或图例。
 
-![](/assets/import34.png)
+![](/assets/importn21.png)
 
 5.点击纵轴图标可设置纵轴。
 
-![](/assets/import35.png)
+![](/assets/importn22.png)
 
 6.点击图形节点进行下钻。
 
