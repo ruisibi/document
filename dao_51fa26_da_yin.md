@@ -2,11 +2,11 @@
 
 1.在**多维分析**页面点击**保存**按钮保存页面配置。保存后的页面可在**打开**中找到，点击**打开**菜单选择刚才保存的报表重新编辑。
 
-![](/assets/import37.png)
+![](/assets/importn27.png)
 
 2.点击**导出**菜单，导出报表到HTML、WORD、Excel、PDF文件。
 
-![](/assets/import38.png)
+![](/assets/importn26.png)
 
 3.点击**打印**菜单，通过浏览器打印报表页面。
 
