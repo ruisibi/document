@@ -2,19 +2,21 @@
 
 1.在表格上点击维度上的**+号**，进行表格钻取分析。
 
-![](/assets/import25.png)
+![](/assets/importn14.png)
 
-2.在钻取的下拉菜单中选择需要钻取的维度。![](/assets/import26.png)
+2.在钻取的下拉菜单中选择需要钻取的维度。
+
+![](/assets/importn15.png)
 
 3.点击**+号**继续钻取、点击**-号**回滚到上级。
 
 4.在图形上点击**图形**，进行图形钻取分析。
 
-![](/assets/import27.png)
+![](/assets/importn16.png)
 
 5.在钻取的下拉框中选择需要钻取的维度
 
-![](/assets/import28.png)
+![](/assets/importn17.png)
 
 6.继续点击**图形**进行下钻，点击**-号**回滚到上级。
 
