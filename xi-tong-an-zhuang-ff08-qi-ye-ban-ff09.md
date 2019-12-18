@@ -63,7 +63,7 @@ Windows版本Redis下载地址：[http://www.ruisitech.com/tools/Redis-x64-3.2.1
 
 6.安装程序
 
-把下载文件夹中bi.war拷入 TOMCAT 的 webapps 目录。启动Tomcat后文件会自动解压到bi目录。
+把下载文件夹中rsbi-ent.war拷入 TOMCAT 的 webapps 目录。启动Tomcat后文件会自动解压到rsbi-ent目录。
 
 修改 WEB-INF/classes/application.properties 文件，主要修改 password 这项内容，既你数据库账户root的密码，如果您的MYSQLroot密码是123456，则不用修改。
 
@@ -88,7 +88,7 @@ redis.maxWait=1000
 redis.testOnBorrow=true
 ```
 
-启动tomcat, 输入 http://localhost:8080/rsbi-ent 访问系统，如果看到登录页面，系统配置成功。
+启动tomcat, 输入 [http://localhost:8080/rsbi-ent](http://localhost:8080/rsbi-ent) 访问系统，如果看到登录页面，系统配置成功。
 
 登录用户名/密码：admin/123456
 
