@@ -88,7 +88,7 @@ redis.maxWait=1000
 redis.testOnBorrow=true
 ```
 
-启动tomcat, 输入 [http://localhost:8080/bi](http://localhost:8080/bi) 访问系统，如果看到登录页面，系统配置成功。
+启动tomcat, 输入 http://localhost:8080/rsbi-ent 访问系统，如果看到登录页面，系统配置成功。
 
 登录用户名/密码：admin/123456
 
