@@ -106,7 +106,7 @@ redis.testOnBorrow=true
 
 1.） 上传文件地址配置：
 
-修改bi/WEB-INF/ext2/ext-config/ext-config.xml文件如下内容：
+修改WEB-INF/ext2/ext-config/ext-config.xml文件如下内容：
 
 ```
 <constant name="upFilePath" value="/webdata/tmpdata/" />
@@ -116,7 +116,7 @@ redis.testOnBorrow=true
 
 2.） 发送邮件账户配置：
 
-修改 bi/WEB-INF/classes/application.properties 文件如下内容：
+修改 WEB-INF/classes/application.properties 文件如下内容：
 
 ```
 #######################################发送邮件配置###############################################
@@ -134,7 +134,7 @@ mail.password=
 
 3.\) elasticsearch配置：
 
-修改 bi/WEB-INF/classes/application.properties 文件如下内容：
+修改 WEB-INF/classes/application.properties 文件如下内容：
 
 ```
 ################################elasticsearch ###############################################
@@ -143,7 +143,7 @@ elasticsearch.url=http://172.30.3.224:9200
 
 4.）单点登录配置：
 
-修改 bi/WEB-INF/classes/application.properties 文件如下内容：
+修改 WEB-INF/classes/application.properties 文件如下内容：
 
 ```
 ################################sso 配置信息 ###############################################
