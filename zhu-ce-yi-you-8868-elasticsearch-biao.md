@@ -1,4 +1,4 @@
-# 注册已有表-ElasticSearch表
+# 注册已有表-ElasticSearch索引
 
 1.BI系统支持直接对ElasticSearch中的表（索引）进行查询和可视化，只用把ElasticSearch的表（索引）注册到BI系统即可。
 
