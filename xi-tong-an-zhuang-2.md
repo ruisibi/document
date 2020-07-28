@@ -20,7 +20,7 @@
 
 系统基于Maven开发，采用Maven编译项目。
 
-4.还原数据
+4.还原数据\(采用mysql支撑库\)
 
 在 mysql 中创建数据库 rs\_report, 并通过命令把  rs\_report\_data.bak 文件还原到  rs\_report 数据库中，命令如下：
 
@@ -28,7 +28,7 @@
 mysql -u root -p rs_report<rs_report_data.bak
 ```
 
-5.修改数据库连接。
+5.修改数据库连接\(采用mysql支持库\)。
 
 数据库连接信息配置在 /rsbi/src/main/resources/application.properties 文件中，修改链接IP，账号密码等信息。
 
@@ -50,4 +50,30 @@ jdbc.password=123456
 这个类在 ext3-1.4.jar 文件，由于启动jar未被发布到lib目录里，解决方法把ext3-1.4.jar添加到发布源，如下图：
 
 ![](http://www.ruisibi.cn/document/assets/import124.png)
+
+8.系统目前支持用sqlite做支撑库，sqlite数据库在src/main/resources/rsreport.sqlite3文件中。需要修改src/main/resources/application.properties文件和src/main/webapp/WEB-INF/ext2/ext-config/ext-config.xml文件。
+
+1）application.properties文件增加sqlite配置：
+
+```java
+#mysql 
+#jdbc.driver=com.mysql.cj.jdbc.Driver
+#jdbc.url=jdbc:mysql://localhost:3306/rs_report?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=GMT%2B8
+#jdbc.username=root
+#jdbc.password=12345678
+
+#sqlite
+jdbc.driver=org.sqlite.JDBC
+jdbc.url=jdbc:sqlite::resource:rsreport.sqlite3
+jdbc.username=
+jdbc.password=
+```
+
+2）ext-config.xml文件修改dbName配置
+
+```
+<constant name="dbName" value="sqlite" />
+```
+
+
 
