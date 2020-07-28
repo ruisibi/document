@@ -1,4 +1,4 @@
-# 注册已有表-Restfull接口
+# 注册已有表-Restful接口
 
 1.注册第三方系统提供的Restful接口到BI系统，通过Restful接口查询数据并进行可视化。
 

@@ -22,7 +22,7 @@
     * [数据转换-同步表到ES](shu-ju-zhuan-6362-tong-bu-biao-dao-es.md)
     * [注册已有表-数据库表](zhu-ce-yi-you-biao.md)
     * [注册已有表-ElasticSearch表](zhu-ce-yi-you-8868-elasticsearch-biao.md)
-    * [注册已有表-Restfull接口](zhu-ce-yi-you-8868-elasticsearch-biao/zhu-ce-restfull-jie-kou.md)
+    * [注册已有表-Restful接口](zhu-ce-yi-you-8868-elasticsearch-biao/zhu-ce-restfull-jie-kou.md)
     * [已有数据](yi-you-shu-ju.md)
     * [任务管理](ren_wu_guan_li.md)
   * [数据填报](shu_ju_tian_bao.md)
@@ -107,5 +107,6 @@
   * [基于ElasticSearch进行数据可视化](chang-jian-wen-ti/ji-yu-elasticsearch-jin-xing-shu-ju-ke-shi-hua.md)
   * [仪表盘模板说明](chang-jian-wen-ti/yi-biao-pan-mo-ban-shuo-ming.md)
   * [整合企业微信](chang-jian-wen-ti/zheng-he-qi-ye-wei-xin.md)
+  * [组件Restful接口](chang-jian-wen-ti/jsonjie-kou.md)
 * [常见问题](chang-jian-wen-ti-2.md)
 
