@@ -62,10 +62,11 @@
     * [创建分析图](yi-biao-pan/chuang-jian-fen-xi-tu.md)
     * [添加/编辑/删除分析图](yi-biao-pan/tian-52a0-bian-8f91-shan-chu-fen-xi-tu.md)
     * [仪表盘布局](yi-biao-pan/yi-biao-pan-bu-ju.md)
-    * [打开/保存/设置](yi-biao-pan/bao-5b587c-she-zhi-yi-biao-pan.md)
+    * [打开/保存/另存/设置](yi-biao-pan/bao-5b587c-she-zhi-yi-biao-pan.md)
     * [创建大屏](yi-biao-pan/chuang-jian-da-ping.md)
     * [仪表盘模板](yi-biao-pan/yi-biao-pan-mo-ban.md)
     * [仪表盘参数](yi-biao-pan/yi-biao-pan-can-shu.md)
+    * 合并/取消合并
   * [移动BI](yi_dong_bi.md)
     * [手机报表分类](fen_lei_guan_li_app.md)
     * [创建手机报表](chuang_jian_shou_ji_bao_biao.md)
