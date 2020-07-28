@@ -5,7 +5,7 @@
   * [技术架构](xi-tong-jia-gou/ji-zhu-jia-gou.md)
   * [业务架构](xi-tong-jia-gou/ye-wu-jia-gou.md)
   * [数据仓库架构](xi-tong-jia-gou/shu-ju-cang-ku-jia-gou.md)
-* [版本划分](ban-ben-hua-fen.md)
+* [系统版本划分](ban-ben-hua-fen.md)
 * [系统安装（企业版）](xi-tong-an-zhuang-ff08-qi-ye-ban-ff09.md)
 * [系统安装（标准版）](chapter1.md)
 * [系统安装（开源版）](xi-tong-an-zhuang-2.md)
