@@ -67,7 +67,7 @@
     * [创建大屏](yi-biao-pan/chuang-jian-da-ping.md)
     * [仪表盘模板](yi-biao-pan/yi-biao-pan-mo-ban.md)
     * [仪表盘参数](yi-biao-pan/yi-biao-pan-can-shu.md)
-    * 合并/取消合并
+    * [合并/取消合并](yi-biao-pan/he-5e76-qu-xiao-he-bing.md)
   * [移动BI](yi_dong_bi.md)
     * [手机报表分类](fen_lei_guan_li_app.md)
     * [创建手机报表](chuang_jian_shou_ji_bao_biao.md)
