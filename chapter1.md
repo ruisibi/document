@@ -4,7 +4,7 @@
 >
 > * MySQL5.5及以上版本；
 > * JDK1.8及以上版本；
-> * Tomcat8.0及以上版本;
+> * Tomcat8.0.44及以上版本;
 
 从[成都睿思商智科技有限公司](http://www.ruisitech.com)网站下载最新版“睿思BI”标准版程序，下载地址：[睿思BI标准版下载](https://www.ruisitech.com/downbase.html)
 
