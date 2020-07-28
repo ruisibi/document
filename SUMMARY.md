@@ -23,6 +23,7 @@
     * [注册已有表-ElasticSearch表](zhu-ce-yi-you-8868-elasticsearch-biao.md)
     * [注册已有表-Restfull接口](zhu-ce-yi-you-8868-elasticsearch-biao/zhu-ce-restfull-jie-kou.md)
     * [已有数据](yi-you-shu-ju.md)
+    * [任务管理](ren_wu_guan_li.md)
   * [数据填报](shu_ju_tian_bao.md)
     * [创建填报表](chuang_jian_tian_bao_biao.md)
     * [填报表管理](tian_bao_biao_guan_li.md)
