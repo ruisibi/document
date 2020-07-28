@@ -22,8 +22,6 @@
 
 * 权限管理
 
-#### 直接下载PDF阅读：[http://www.ruisitech.com/doc/rsbi\_doc.pdf](http://www.ruisitech.com/doc/rsbi_doc.pdf "下载")
-
 #### 企业版演示：[https://www.ruisitech.com/rsbi-ent](https://www.ruisitech.com/rsbi-ent)
 
 
