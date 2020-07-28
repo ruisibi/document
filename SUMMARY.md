@@ -105,8 +105,10 @@
   * [单点登录](chang-jian-wen-ti/dan-dian-deng-lu.md)
   * [扩展数据库导入功能](chang-jian-wen-ti/kuo-zhan-shu-ju-ku.md)
   * [基于ElasticSearch进行数据可视化](chang-jian-wen-ti/ji-yu-elasticsearch-jin-xing-shu-ju-ke-shi-hua.md)
+  * [仪表盘风格定义](chang-jian-wen-ti/yi-biao-pan-feng-ge-ding-yi.md)
   * [仪表盘模板说明](chang-jian-wen-ti/yi-biao-pan-mo-ban-shuo-ming.md)
   * [整合企业微信](chang-jian-wen-ti/zheng-he-qi-ye-wei-xin.md)
   * [组件Restful接口](chang-jian-wen-ti/jsonjie-kou.md)
+  * [使用百度地图](chang-jian-wen-ti/shi-yong-bai-du-di-tu.md)
 * [常见问题](chang-jian-wen-ti-2.md)
 
