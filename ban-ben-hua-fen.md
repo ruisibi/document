@@ -9,7 +9,22 @@
 | 版本号 | V4.6 | V4.5 | V4.5 |
 | 是否付费 | 按套购买 | 按套购买 | 免费使用 |
 | 技术支持 | 购买后包含一年技术支持及产品升级 | 购买后包含一年技术支持；无产品升级服务 | 不包含 |
-| 下载地址 | [http://www.ruisitech.com/download.html](http://www.ruisitech.com/download.html) | [https://www.ruisitech.com/downbase.html](https://www.ruisitech.com/downbase.html) | [https://github.com/ruisibi/rsbi-pom](https://github.com/ruisibi/rsbi-pom) |
+
+企业版下载地址：[https://www.ruisitech.com/download.html](https://www.ruisitech.com/download.html)
+
+标准版下载地址：[https://www.ruisitech.com/downbase.html](https://www.ruisitech.com/downbase.html)
+
+开源版下载地址：[https://github.com/ruisibi/rsbi-pom](https://github.com/ruisibi/rsbi-pom)
+
+
+
+
+
+
+
+
+
+
 
 
 
